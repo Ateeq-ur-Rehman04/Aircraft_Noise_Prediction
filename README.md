@@ -1,9 +1,4 @@
-# Ateeq-ur-Rehman---AE01---FOP-II
-
-Mid-Semester Project for FOP-II Course.
-
-
-Project title: "NASA Airfoil Self-Noise Prediction"
+# NASA Airfoil Self-Noise Prediction
 
 Language used: Python
 
